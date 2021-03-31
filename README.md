@@ -12,6 +12,8 @@ For this task we have to implement exactly same R2-UNet model given in this pape
 
 #### Task 3:
 
+For this task, we have to improve the existing results of task 2. So in this work we combined the R2-UNet model with an attention gate known as Focusnet. We got the training accuracy as 0.9982, sensitivity as 0.8854, specificity as 0.9932, F1-score as 0.88632, and Jaccard score as 0.8056 and testing accurracy as 0.9862, sensitivity as 0.8323, specificity as 0.9543, F1-score as 0.8413, and Jaccard score as 0.7523.
+
 
 
 
